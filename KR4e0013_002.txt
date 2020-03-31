@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 雲林集
-#+DATE: 2020-03-31 11:36:23.485972
+#+DATE: 2020-03-31 11:36:23.529226
 #+PROPERTY: ID KR4e0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4e0013_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -52,7 +52,7 @@
 ¶
 　　别來兩度得安書猶在仙鄉水竹居年少才華終有合¶
 春寒眠食定何如奏琴深夜難成曲采緑終朝不滿裾¶
-月色四山清&KR0444;&KR0444;空花千樹落疎疎¶
+月色四山清窈窈空花千樹落疎疎¶
 ¶
 　　危坐思君到五更江山東望不勝情雲連仙闕音書逺¶
 竹遶幽居夢寐清山木生涼風洶湧天河無浪月峥嶸¶
